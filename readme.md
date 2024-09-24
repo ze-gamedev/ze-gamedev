@@ -63,7 +63,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Aseprite" height="40" width="40" src="https://avatars.githubusercontent.com/u/3853896?s=280&v=4">
+    <img align="center" alt="Aseprite" height="40" width="40" src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png">
     <img align="center" alt="Godot" height="40" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
     <img align="center" alt="Gamemaker" height="40" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
   </div>
