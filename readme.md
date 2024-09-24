@@ -34,7 +34,7 @@
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white")](https://sateee.itch.io/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&show_icons=true&theme=gotham)
+![ze-gamedev's Stats](https://github-readme-stats.vercel.app/api?username=ze-gamedev&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -52,7 +52,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de programação - Programming Languages</h3>
     <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -63,7 +63,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas - Tools</h3>
     <img align="center" alt="Aseprite" height="40" width="40" src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png">
     <img align="center" alt="Godot" height="40" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
     <img align="center" alt="Gamemaker" height="40" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
