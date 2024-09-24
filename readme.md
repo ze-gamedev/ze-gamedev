@@ -56,15 +56,15 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="GDScript" height="30" width="40" src="Godot_icon.svg.png">
-    <img align="center" alt="GML" height="30" width="40" src="light-gamemaker2.svg">
+    <img align="center" alt="GDScript" height="30" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
+    <img align="center" alt="GML" height="30" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="Aseprite" height="30" width="40" src="aseprite.png">
-    <img align="center" alt="Godot" height="30" width="40" src="Godot_icon.svg.png">
-    <img align="center" alt="Gamemaker" height="30" width="40" src="light-gamemaker2.svg">
+    <img align="center" alt="Aseprite" height="30" width="40" src="https://avatars.githubusercontent.com/u/3853896?s=280&v=4">
+    <img align="center" alt="Godot" height="30" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
+    <img align="center" alt="Gamemaker" height="30" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
   </div>
   
