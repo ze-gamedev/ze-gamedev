@@ -30,7 +30,7 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/broother_ti)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/broother_ti)
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white")](https://sateee.itch.io/)
 
 <!-- GithubStats -->
