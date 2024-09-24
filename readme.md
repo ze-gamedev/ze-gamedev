@@ -22,11 +22,19 @@
 
 <!-- Dropdown -->
 <details>
+  <summary>👨‍💻 Um pouco mais sobre mim</summary>
+
+  - 💬Tenho 15 anos, atualmente moro no brasil, sei um pouco de inglês e tenho experiencia com Python, C#, C++, engines como Godot, Unity, GameMaker Studio 2 e Construct, também sei sobre pixel art.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+</details>
+
+<details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I know a bit of English and have experience with Python, C#, C++, engines like Godot, Unity, Gamemaker Studio 2 and Construct, and i know pixel art.
+  - 💬 I am 15 years old, currently living in Brazil. I know a bit of English and have experience with Python, C#, C++, engines like Godot, Unity, GameMaker Studio 2 and Construct, I know too about pixel art.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 <!-- Links -->
