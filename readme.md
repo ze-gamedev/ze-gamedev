@@ -31,7 +31,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/broother_ti)
-[![Icht.io](https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png](https://sateee.itch.io/)
+[![Itch.io](https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png)](https://sateee.itch.io/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&show_icons=true&theme=gotham)
@@ -46,7 +46,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="BG_city-sheet" alt="Imagem">
+  <img align="center" src="BG_city-sheet.png" alt="Imagem">
 </p>
 
 ## 🔥 Skills
