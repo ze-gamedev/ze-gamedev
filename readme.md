@@ -52,12 +52,12 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="GDScript" height="30" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
-    <img align="center" alt="GML" height="30" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
+    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="GDScript" height="40" width="40" src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4">
+    <img align="center" alt="GML" height="40" width="40" src="https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
