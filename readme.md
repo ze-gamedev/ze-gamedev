@@ -37,12 +37,7 @@
 ![ze-gamedev's Stats](https://github-readme-stats.vercel.app/api?username=ze-gamedev&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
 
 <!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/)
-- [Exploratory Data Analysis](https://github.com/)
-- [Interactive Data Visualization](https://github.com/)
-- [Data Querying and Analysis](https://github.com/)
-- [Client Registry System](https://github.com/)
+
 
 <!-- GIF -->
 <p align="left">
